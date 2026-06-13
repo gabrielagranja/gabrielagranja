@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Gabriela Granja
 
-<!--
-**gabrielagranja/gabrielagranja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital marketing professional expanding into automation, data and artificial intelligence.
 
-Here are some ideas to get you started:
+Currently building hands-on projects in Python, Machine Learning, Data Analytics and AI while applying technology to solve real business and marketing challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Marketing Automation
+- Data Analytics
+- Artificial Intelligence
+- Machine Learning
+- Business Process Automation
+
+## Technologies
+
+- Python
+- Selenium
+- Pandas
+- FastAPI
+- SQL
+- Git & GitHub
+- Docker
+
+## Featured Projects
+
+- Escape Boxes Lead Scraper
+- Titanic EDA
+- Selenium Automation
+- Escape Room Management API
+
+## Currently Learning
+
+- Machine Learning
+- Deep Learning
+- NLP
+- AI Agents
+- Computer Vision
