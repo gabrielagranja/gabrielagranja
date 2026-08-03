@@ -6,7 +6,14 @@ Marketing • Software Development • Artificial Intelligence
 
 <br>
 
-I'm a marketing professional transitioning into software development, focused on building products that combine automation, data and artificial intelligence to solve real business problems.
+# Gabriela Granja
+
+Marketing × Software × Artificial Intelligence
+
+Building practical software that combines marketing, automation and AI.
+
+Background in digital marketing, currently focused on Python, Machine Learning and Data Analytics.
+
 
 ---
 
