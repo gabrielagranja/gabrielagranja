@@ -45,3 +45,5 @@ Python · FastAPI · React · SQL · Pandas · Scikit-learn · Plotly · Docker 
 ## Currently Learning
 
 Machine Learning • Deep Learning • AI Agents • MLOps
+
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielagranja&show_icons=true&theme=transparent"/>
