@@ -12,7 +12,7 @@ I'm a marketing professional transitioning into software development, focused on
 
 ## Selected Projects
 
-### SentiLife (TalentCare)
+### TalentCare
 
 AI-powered People Analytics platform for employee retention and HR decision support.
 
@@ -24,11 +24,6 @@ AI-powered People Analytics platform for employee retention and HR decision supp
 
 Interactive dashboard built with Python, GitHub GraphQL and Plotly.
 
-<p align="center">
-<img width="850" src="https://github.com/user-attachments/assets/276948e6-4e22-4f52-a44e-04b2cbf8bc76">
-</p>
-
-<br>
 
 ### Clustering Research Lab
 
