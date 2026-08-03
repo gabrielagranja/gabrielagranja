@@ -6,8 +6,6 @@ Marketing • Software Development • Artificial Intelligence
 
 <br>
 
-# Gabriela Granja
-
 Marketing × Software × Artificial Intelligence
 
 Building practical software that combines marketing, automation and AI.
