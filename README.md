@@ -12,7 +12,7 @@ I'm a marketing professional transitioning into software development, focused on
 
 ## Selected Projects
 
-### SentiLife (TalentCare)
+### TalentCare
 
 AI-powered People Analytics platform for employee retention and HR decision support.
 
@@ -51,7 +51,7 @@ artificial intelligence to solve real business problems.
 
 ## Selected Projects
 
-### SentiLife (TalentCare)
+### TalentCare
 
 AI-powered People Analytics platform for employee retention and HR decision support.
 
@@ -133,7 +133,7 @@ username=gabrielagranja&layout=compact&theme=github_dark&hide_border=true"/>
 
 ---
 
-# 📫 Connect with me
+# Connect with me
 
 <p align="left">
 
