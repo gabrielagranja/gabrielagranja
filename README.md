@@ -61,6 +61,5 @@ Marketing professionals + coding skills + AI knowledge = **The future of martech
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielagranja&show_icons=true&theme=transparent)
 
 **Let's collaborate on marketing automation, AI projects, or martech solutions.**
