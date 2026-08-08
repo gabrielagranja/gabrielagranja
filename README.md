@@ -1,49 +1,66 @@
-<h1 align="center">Gabriela Granja</h1>
+# 👋 Gabriela Granja
 
-<p align="center">
-Marketing • Software Development • Artificial Intelligence
-</p>
-
-<br>
-
-Marketing × Software × Artificial Intelligence
-
-Building practical software that combines marketing, automation and AI.
-
-Background in digital marketing, currently focused on Python, Machine Learning and Data Analytics.
-
+**Marketing × Software Development × Artificial Intelligence**
 
 ---
 
-## Selected Projects
+## About Me
 
-### TalentCare
+I'm a **digital marketing professional building expertise in software development and AI**. This unique combination positions me to create intelligent automation solutions that bridge business strategy and technology.
 
-AI-powered People Analytics platform for employee retention and HR decision support.
-
-**Stack:** Python · FastAPI · React · Machine Learning
-
-<br>
-
-### GitHub Analytics Dashboard
-
-Interactive dashboard built with Python, GitHub GraphQL and Plotly.
-
-
-### Clustering Research Lab
-
-Research project exploring unsupervised learning, clustering algorithms and interactive data visualization.
+**My superpower:** I understand *both* marketing challenges AND how to solve them with code and machine learning.
 
 ---
 
-## Technologies
+## 🎯 What I Do
 
-Python · FastAPI · React · SQL · Pandas · Scikit-learn · Plotly · Docker · Git
+### Building Marketing Automation & AI Solutions
+
+- **Marketing Tech Stack** — Python automation, data pipelines, lead generation tools
+- **ML for Marketing** — Predictive analytics, campaign optimization, customer insights
+- **Full-Stack Development** — End-to-end applications that solve real business problems
+
+### Featured Projects
+
+**TalentCare** — AI People Analytics Platform  
+Employee retention prediction combining ML, FastAPI, React & PostgreSQL  
+
+**AI Regression Marketing** — ML model predicting digital campaign revenue  
+Machine learning + business analytics in action
+
+**Escape Boxes Lead Scraper** — Selenium automation for lead generation  
+Real-world automation for marketing operations
+
+**Escape Room Booking System** — Full-stack booking platform  
+Built collaboratively during AI & Software Development Bootcamp
 
 ---
 
-## Currently Learning
+## 🛠️ Tech Stack
 
-Machine Learning • Deep Learning • AI Agents • MLOps
+**Languages:** Python  
+**Automation & Web:** FastAPI, React, Selenium  
+**Data & ML:** Pandas, Scikit-learn, Jupyter Notebooks  
+**Databases:** PostgreSQL, SQL  
+**DevOps:** Docker, Git  
+**Visualization:** Plotly
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielagranja&show_icons=true&theme=transparent"/>
+---
+
+## 📚 Currently Learning
+
+- **Deep Learning** for advanced marketing predictions
+- **MLOps** & scaling AI solutions
+- **AI Agents** for autonomous marketing workflows
+
+---
+
+## 💡 Why This Matters
+
+Marketing professionals + coding skills + AI knowledge = **The future of martech**. I'm building that intersection.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielagranja&show_icons=true&theme=transparent)
+
+**Let's collaborate on marketing automation, AI projects, or martech solutions.**
