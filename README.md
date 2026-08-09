@@ -1,4 +1,4 @@
-# 👋 Gabriela Granja
+# Gabriela Granja
 
 **Marketing × Software Development × Artificial Intelligence**
 
