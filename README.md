@@ -12,7 +12,7 @@ I'm a **digital marketing professional building expertise in software developmen
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 ### Building Marketing Automation & AI Solutions
 
@@ -47,7 +47,7 @@ Built collaboratively during AI & Software Development Bootcamp
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - **Deep Learning** for advanced marketing predictions
 - **MLOps** & scaling AI solutions
@@ -55,7 +55,7 @@ Built collaboratively during AI & Software Development Bootcamp
 
 ---
 
-## 💡 Why This Matters
+##  Why This Matters
 
 Marketing professionals + coding skills + AI knowledge = **The future of martech**. I'm building that intersection.
 
