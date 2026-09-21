@@ -1,66 +1,56 @@
-# Hola, soy Gabriela Granja 👋
+# Gabriela Granja
 
-### Marketing & Data Analyst | Business Growth, Power BI, Excel, SQL & AI
+## Marketing, Data & Artificial Intelligence
 
-Convierto datos de marketing, campañas y clientes en decisiones que mejoran la captación, la conversión y el crecimiento del negocio.
+Profesional de marketing en evolución hacia el análisis de datos y la inteligencia artificial aplicada al negocio.
 
-Aporto una combinación poco habitual: experiencia real en marketing y negocio, orientación comercial y capacidad analítica. He trabajado en estrategia digital, CRM, ecommerce, adquisición de clientes y medición de rendimiento, y actualmente desarrollo soluciones con datos, automatización e inteligencia artificial aplicada.
+Este perfil reúne los proyectos con los que estoy desarrollando competencias en análisis, visualización, automatización y machine learning. Mi enfoque consiste en conectar la perspectiva de marketing con herramientas técnicas para explorar datos, comprender comportamientos y construir soluciones orientadas a problemas reales.
 
-📍 Madrid y Barcelona · Presencial, híbrido o remoto  
-🌍 Español nativo · Inglés C1 · Catalán profesional
+## Áreas de desarrollo
 
-## Impacto destacado
+- Análisis y visualización de datos con Power BI, Excel y Python.
+- Consultas, transformación y exploración de datos con SQL y Pandas.
+- Fundamentos y aplicación práctica de machine learning.
+- Automatización de procesos y recopilación de información.
+- Análisis de campañas, clientes y comportamiento digital.
+- Desarrollo de aplicaciones para presentar modelos y resultados.
+- Uso de inteligencia artificial en procesos de análisis y negocio.
 
-- **33,6x de ROAS** en una campaña de Meta Ads.
-- **+200 leads cualificados** generados mediante campañas, contenidos y captación digital.
-- **Hasta +70 % de tráfico orgánico** en proyectos SEO.
-- **≈3.000 € recuperados** mediante automatización de CRM y carritos abandonados.
-- Gestión de estrategias de marketing para **más de 20 clientes internacionales**.
-- Más de **60 campañas de pago** gestionadas y analizadas.
-
-## Qué hago
-
-- **Marketing Analytics:** análisis de campañas, KPIs, atribución, ROAS y recomendaciones accionables.
-- **Business Intelligence:** dashboards, reporting y visualización con Power BI y Excel.
-- **Datos:** SQL, Python, Pandas, análisis exploratorio y machine learning.
-- **Growth & CRM:** captación, customer insights, automatización, conversión y ecommerce.
-- **Marketing digital:** SEO, Google Ads, Meta Ads, email marketing y GA4.
-- **IA aplicada:** automatización de procesos, análisis y mejora de flujos de trabajo.
-
-## Proyectos destacados
+## Proyectos
 
 ### [TalentCare](https://github.com/gabrielagranja/talentcare)
-Plataforma de People Analytics para anticipar la rotación de empleados mediante machine learning, FastAPI, React y PostgreSQL.
+
+Proyecto de People Analytics centrado en el estudio de la rotación de empleados. Integra análisis de datos, machine learning y una aplicación desarrollada con FastAPI, React y PostgreSQL.
 
 ### [Marketing Campaign Revenue Predictor](https://github.com/gabrielagranja/Marketing-Campaign-Revenue-Predictor)
-Modelo de machine learning para predecir ingresos de campañas y convertir variables de marketing en información útil para el negocio.
+
+Proyecto de aprendizaje supervisado para analizar variables de campañas de marketing y desarrollar un modelo de predicción de ingresos.
 
 ### [Sentilife](https://github.com/gabrielagranja/sentilife)
-Proyecto de análisis de sentimiento que conecta procesamiento de datos, IA y comprensión de audiencias.
 
-### [Escape Boxes Lead Scraper](https://github.com/gabrielagranja/escape-boxes-lead-scraper)
-Automatización con Selenium para recopilar y estructurar leads, reduciendo tareas manuales de prospección.
+Aplicación orientada al análisis de sentimiento y a la exploración de información textual mediante técnicas de procesamiento de datos e inteligencia artificial.
 
 ### [Clustering Research Lab](https://github.com/gabrielagranja/clustering-research-lab)
-Laboratorio de aprendizaje no supervisado orientado a segmentación, exploración de patrones y análisis de grupos.
 
-## Herramientas
+Laboratorio de aprendizaje no supervisado para estudiar técnicas de clustering, segmentación y detección de patrones.
 
-**Analytics & BI:** Power BI · Excel · Google Analytics 4 · Campaign Reporting  
-**Data & ML:** Python · SQL · Pandas · Scikit-learn · Jupyter · Machine Learning  
-**Development:** FastAPI · React · PostgreSQL · Selenium · Git · Docker  
-**Marketing:** SEO · Google Ads · Meta Ads · CRM · Email Marketing · Ecommerce  
-**AI:** IA generativa · Automatización · Análisis de sentimiento
+### [Escape Boxes Lead Scraper](https://github.com/gabrielagranja/escape-boxes-lead-scraper)
 
-## En qué estoy trabajando
+Proyecto de automatización con Selenium para recopilar, organizar y estructurar información procedente de la web.
 
-- Profundizando en análisis de datos, Power BI, SQL y Python.
-- Creando proyectos que conectan datos, marketing y necesidades empresariales.
-- Aplicando machine learning e IA a customer insights, predicción y automatización.
+## Tecnologías y herramientas
+
+**Análisis y visualización:** Power BI, Excel, Google Analytics 4, Plotly  
+**Datos y machine learning:** Python, SQL, Pandas, Scikit-learn, Jupyter  
+**Desarrollo:** FastAPI, React, PostgreSQL, Selenium  
+**Entorno de trabajo:** Git, GitHub, Docker  
+**Marketing:** SEO, CRM, ecommerce y analítica de campañas
+
+## Actualmente
+
+Estoy profundizando en análisis de datos, Power BI, SQL, Python y machine learning mediante proyectos prácticos. Me interesa especialmente la aplicación de los datos y la inteligencia artificial al marketing, la comprensión de clientes y la toma de decisiones empresariales.
 
 ## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/gabriela-granja)
-- [Email](mailto:gabriela.granja@gmail.com)
-
-Estoy abierta a oportunidades como **Marketing Analyst, Digital Analyst, CRM / Customer Insights Analyst o Business Analyst**, y a colaborar en proyectos de datos, automatización, IA y martech.
+- [Correo electrónico](mailto:gabriela.granja@gmail.com)
