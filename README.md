@@ -2,55 +2,55 @@
 
 ## Marketing, Data & Artificial Intelligence
 
-Profesional de marketing en evolución hacia el análisis de datos y la inteligencia artificial aplicada al negocio.
+Marketing professional expanding into data analytics and business-focused artificial intelligence.
 
-Este perfil reúne los proyectos con los que estoy desarrollando competencias en análisis, visualización, automatización y machine learning. Mi enfoque consiste en conectar la perspectiva de marketing con herramientas técnicas para explorar datos, comprender comportamientos y construir soluciones orientadas a problemas reales.
+This profile brings together the projects through which I am developing skills in data analysis, visualization, automation, and machine learning. My approach combines a marketing perspective with technical tools to explore data, understand behavior, and build solutions for real-world problems.
 
-## Áreas de desarrollo
+## Areas of Development
 
-- Análisis y visualización de datos con Power BI, Excel y Python.
-- Consultas, transformación y exploración de datos con SQL y Pandas.
-- Fundamentos y aplicación práctica de machine learning.
-- Automatización de procesos y recopilación de información.
-- Análisis de campañas, clientes y comportamiento digital.
-- Desarrollo de aplicaciones para presentar modelos y resultados.
-- Uso de inteligencia artificial en procesos de análisis y negocio.
+- Data analysis and visualization with Power BI, Excel, and Python.
+- Data querying, transformation, and exploration with SQL and Pandas.
+- Machine learning fundamentals and practical applications.
+- Process automation and data collection.
+- Campaign, customer, and digital behavior analysis.
+- Application development for presenting models and insights.
+- Artificial intelligence applied to analytics and business processes.
 
-## Proyectos
+## Projects
 
 ### [TalentCare](https://github.com/gabrielagranja/talentcare)
 
-Proyecto de People Analytics centrado en el estudio de la rotación de empleados. Integra análisis de datos, machine learning y una aplicación desarrollada con FastAPI, React y PostgreSQL.
+A People Analytics project focused on employee turnover analysis. It combines data analytics and machine learning with an application built using FastAPI, React, and PostgreSQL.
 
 ### [Marketing Campaign Revenue Predictor](https://github.com/gabrielagranja/Marketing-Campaign-Revenue-Predictor)
 
-Proyecto de aprendizaje supervisado para analizar variables de campañas de marketing y desarrollar un modelo de predicción de ingresos.
+A supervised learning project that explores marketing campaign variables and develops a model for revenue prediction.
 
 ### [Sentilife](https://github.com/gabrielagranja/sentilife)
 
-Aplicación orientada al análisis de sentimiento y a la exploración de información textual mediante técnicas de procesamiento de datos e inteligencia artificial.
+An application focused on sentiment analysis and the exploration of text data using data processing and artificial intelligence techniques.
 
 ### [Clustering Research Lab](https://github.com/gabrielagranja/clustering-research-lab)
 
-Laboratorio de aprendizaje no supervisado para estudiar técnicas de clustering, segmentación y detección de patrones.
+An unsupervised learning lab for studying clustering techniques, segmentation, and pattern discovery.
 
 ### [Escape Boxes Lead Scraper](https://github.com/gabrielagranja/escape-boxes-lead-scraper)
 
-Proyecto de automatización con Selenium para recopilar, organizar y estructurar información procedente de la web.
+A Selenium automation project designed to collect, organize, and structure information from the web.
 
-## Tecnologías y herramientas
+## Technologies and Tools
 
-**Análisis y visualización:** Power BI, Excel, Google Analytics 4, Plotly  
-**Datos y machine learning:** Python, SQL, Pandas, Scikit-learn, Jupyter  
-**Desarrollo:** FastAPI, React, PostgreSQL, Selenium  
-**Entorno de trabajo:** Git, GitHub, Docker  
-**Marketing:** SEO, CRM, ecommerce y analítica de campañas
+**Analytics and visualization:** Power BI, Excel, Google Analytics 4, Plotly  
+**Data and machine learning:** Python, SQL, Pandas, Scikit-learn, Jupyter  
+**Development:** FastAPI, React, PostgreSQL, Selenium  
+**Workflow:** Git, GitHub, Docker  
+**Marketing:** SEO, CRM, ecommerce, and campaign analytics
 
-## Actualmente
+## Current Focus
 
-Estoy profundizando en análisis de datos, Power BI, SQL, Python y machine learning mediante proyectos prácticos. Me interesa especialmente la aplicación de los datos y la inteligencia artificial al marketing, la comprensión de clientes y la toma de decisiones empresariales.
+I am deepening my knowledge of data analytics, Power BI, SQL, Python, and machine learning through practical projects. I am particularly interested in applying data and artificial intelligence to marketing, customer understanding, and business decision-making.
 
-## Contacto
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/gabriela-granja)
-- [Correo electrónico](mailto:gabriela.granja@gmail.com)
+- [Email](mailto:gabriela.granja@gmail.com)
