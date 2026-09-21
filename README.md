@@ -1,65 +1,66 @@
-# Gabriela Granja
+# Hola, soy Gabriela Granja 👋
 
-**Marketing × Software Development × Artificial Intelligence**
+### Marketing & Data Analyst | Business Growth, Power BI, Excel, SQL & AI
 
----
+Convierto datos de marketing, campañas y clientes en decisiones que mejoran la captación, la conversión y el crecimiento del negocio.
 
-## About Me
+Aporto una combinación poco habitual: experiencia real en marketing y negocio, orientación comercial y capacidad analítica. He trabajado en estrategia digital, CRM, ecommerce, adquisición de clientes y medición de rendimiento, y actualmente desarrollo soluciones con datos, automatización e inteligencia artificial aplicada.
 
-I'm a **digital marketing professional building expertise in software development and AI**. This unique combination positions me to create intelligent automation solutions that bridge business strategy and technology.
+📍 Madrid y Barcelona · Presencial, híbrido o remoto  
+🌍 Español nativo · Inglés C1 · Catalán profesional
 
-**My superpower:** I understand *both* marketing challenges AND how to solve them with code and machine learning.
+## Impacto destacado
 
----
+- **33,6x de ROAS** en una campaña de Meta Ads.
+- **+200 leads cualificados** generados mediante campañas, contenidos y captación digital.
+- **Hasta +70 % de tráfico orgánico** en proyectos SEO.
+- **≈3.000 € recuperados** mediante automatización de CRM y carritos abandonados.
+- Gestión de estrategias de marketing para **más de 20 clientes internacionales**.
+- Más de **60 campañas de pago** gestionadas y analizadas.
 
-## What I Do
+## Qué hago
 
-### Building Marketing Automation & AI Solutions
+- **Marketing Analytics:** análisis de campañas, KPIs, atribución, ROAS y recomendaciones accionables.
+- **Business Intelligence:** dashboards, reporting y visualización con Power BI y Excel.
+- **Datos:** SQL, Python, Pandas, análisis exploratorio y machine learning.
+- **Growth & CRM:** captación, customer insights, automatización, conversión y ecommerce.
+- **Marketing digital:** SEO, Google Ads, Meta Ads, email marketing y GA4.
+- **IA aplicada:** automatización de procesos, análisis y mejora de flujos de trabajo.
 
-- **Marketing Tech Stack** — Python automation, data pipelines, lead generation tools
-- **ML for Marketing** — Predictive analytics, campaign optimization, customer insights
-- **Full-Stack Development** — End-to-end applications that solve real business problems
+## Proyectos destacados
 
-### Featured Projects
+### [TalentCare](https://github.com/gabrielagranja/talentcare)
+Plataforma de People Analytics para anticipar la rotación de empleados mediante machine learning, FastAPI, React y PostgreSQL.
 
-**TalentCare** — AI People Analytics Platform  
-Employee retention prediction combining ML, FastAPI, React & PostgreSQL  
+### [Marketing Campaign Revenue Predictor](https://github.com/gabrielagranja/Marketing-Campaign-Revenue-Predictor)
+Modelo de machine learning para predecir ingresos de campañas y convertir variables de marketing en información útil para el negocio.
 
-**AI Regression Marketing** — ML model predicting digital campaign revenue  
-Machine learning + business analytics in action
+### [Sentilife](https://github.com/gabrielagranja/sentilife)
+Proyecto de análisis de sentimiento que conecta procesamiento de datos, IA y comprensión de audiencias.
 
-**Escape Boxes Lead Scraper** — Selenium automation for lead generation  
-Real-world automation for marketing operations
+### [Escape Boxes Lead Scraper](https://github.com/gabrielagranja/escape-boxes-lead-scraper)
+Automatización con Selenium para recopilar y estructurar leads, reduciendo tareas manuales de prospección.
 
-**Escape Room Booking System** — Full-stack booking platform  
-Built collaboratively during AI & Software Development Bootcamp
+### [Clustering Research Lab](https://github.com/gabrielagranja/clustering-research-lab)
+Laboratorio de aprendizaje no supervisado orientado a segmentación, exploración de patrones y análisis de grupos.
 
----
+## Herramientas
 
-## 🛠️ Tech Stack
+**Analytics & BI:** Power BI · Excel · Google Analytics 4 · Campaign Reporting  
+**Data & ML:** Python · SQL · Pandas · Scikit-learn · Jupyter · Machine Learning  
+**Development:** FastAPI · React · PostgreSQL · Selenium · Git · Docker  
+**Marketing:** SEO · Google Ads · Meta Ads · CRM · Email Marketing · Ecommerce  
+**AI:** IA generativa · Automatización · Análisis de sentimiento
 
-**Languages:** Python  
-**Automation & Web:** FastAPI, React, Selenium  
-**Data & ML:** Pandas, Scikit-learn, Jupyter Notebooks  
-**Databases:** PostgreSQL, SQL  
-**DevOps:** Docker, Git  
-**Visualization:** Plotly
+## En qué estoy trabajando
 
----
+- Profundizando en análisis de datos, Power BI, SQL y Python.
+- Creando proyectos que conectan datos, marketing y necesidades empresariales.
+- Aplicando machine learning e IA a customer insights, predicción y automatización.
 
-##  Currently Learning
+## Contacto
 
-- **Deep Learning** for advanced marketing predictions
-- **MLOps** & scaling AI solutions
-- **AI Agents** for autonomous marketing workflows
+- [LinkedIn](https://www.linkedin.com/in/gabriela-granja)
+- [Email](mailto:gabriela.granja@gmail.com)
 
----
-
-##  Why This Matters
-
-Marketing professionals + coding skills + AI knowledge = **The future of martech**. I'm building that intersection.
-
----
-
-
-**Let's collaborate on marketing automation, AI projects, or martech solutions.**
+Estoy abierta a oportunidades como **Marketing Analyst, Digital Analyst, CRM / Customer Insights Analyst o Business Analyst**, y a colaborar en proyectos de datos, automatización, IA y martech.
