@@ -2,6 +2,7 @@
 
 Marketing & Data Analyst with 10+ years in digital marketing (SEO, paid media, CRM, email, Google Analytics 4), now building a data portfolio.
 I combine business insight with Python, SQL, machine learning and automation to understand campaigns, customers and digital behavior.
+I have run paid social campaigns on Meta Ads end to end: strategy, budget, creative, execution, tracking in Google Analytics 4 and reporting on spend, conversions and ROAS.
 Based in Spain.
 
 ## Featured projects
