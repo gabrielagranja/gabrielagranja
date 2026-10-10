@@ -6,7 +6,7 @@ Based in Spain.
 
 ## Featured projects
 
-- **[Marketing Campaign Revenue Predictor](https://github.com/gabrielagranja/Marketing-Campaign-Revenue-Predictor)**: model that estimates a campaign's revenue before launch. Random Forest with R² of 0.85 on the test set, Streamlit app and Docker deployment. Individual project, end to end.
+- **[Marketing Campaign Revenue Predictor](https://github.com/gabrielagranja/Marketing-Campaign-Revenue-Predictor)**: model that estimates a campaign's revenue from performance metrics such as clicks, conversions and spend. Random Forest with R² of 0.85 on the test set, Streamlit app and Docker deployment. Individual project, end to end.
 - **[Tech & STEAM Certifications Guide](https://github.com/gabrielagranja/certificaciones-tech-steam)**: interactive web guide to compare certifications, costs, salaries and ROI, focused on Spain. Individual project. [Live demo](https://gabrielagranja.github.io/certificaciones-tech-steam/index.html)
 - **[LLM Content Generator](https://github.com/gabrielagranja/generador-contenido-llms/tree/dev)**: product to generate social media drafts for a network of 20+ local businesses. Individual project; MVP in progress (FastAPI, RAG and LLM-generated drafts), code on the dev branch.
 - **[Unsupervised ML Workshop](https://github.com/gabrielagranja/unsupervised-ml-workshop)**: customer segmentation (8,950 credit card customers) and mushroom data analysis (8,124 records) with PCA, UMAP, K-Means, DBSCAN and anomaly detection. Group work; I made most of it (22 of 33 commits).
